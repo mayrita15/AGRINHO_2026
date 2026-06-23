@@ -2,7 +2,7 @@
 
   --bg-light: #ffffff;
   --green: #57732D;
-  --green-dark: #485923;
+  --green-dark: #32c925;
   --ochre: #A67212;
   --dark-brown: #261E17;
 
@@ -290,10 +290,9 @@ footer {
 
 .btn-secondary {
 
-  background:
-    rgba(87,115,45,0.18);
+  background: var(--green-dark);
 
-  color: var(--green-dark);
+  color: white;
 }
 
 /* =========================================================
