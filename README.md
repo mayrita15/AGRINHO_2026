@@ -60,7 +60,7 @@ A proposta busca demonstrar que pequenas ações individuais podem gerar grandes
 Cole aqui o link do GitHub Pages:
 
 ```text
-[https://mayrita15.github.io/AGRINHO_2026/]
+https://mayrita15.github.io/AGRINHO_2026/
 ```
 
 ### Repositório
