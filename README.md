@@ -68,7 +68,7 @@ https://mayrita15.github.io/AGRINHO_2026/
 Cole aqui o link do GitHub:
 
 ```text
-https://github.com/seu-usuario/seu-repositorio
+https://github.com/mayrita15/AGRINHO_2026/blob/main/README.md
 ```
 
 ---
